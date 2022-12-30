@@ -22,7 +22,7 @@
   "devDependencies": {
     "chai": "^4.2.0",
     "jsdoc": "^3.6.4",
-    "mocha": "^6.2.2"
+    "mocha": "^10.2.0"
   },
   "dependencies": {
     "jaguarjs-jsdoc": "^1.1.0",
